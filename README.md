@@ -1,15 +1,15 @@
-### Hey there! 👋  I'm Amaya 🌷
+### Hey there! 👋   I'm Amaya 🌷
 ---
 ### Tech Stack
 -  **Languages :** Java, PHP, C++, Javascript, HTML, CSS
 -  **Technologies :** Node.js, React Native, MongoDB, Mongoose, Express.js 💻
 
 ### About Me
-- 😄 Pronouns: She/Her/Hers
-- 📫 How to reach me: amayanicolejimenez@gmail.com
-- 🔭 I’m currently working on my personal website 
-- 🎧 Hobbies: Music, Attending concerts, Spending Time with Friends
-- ⚡  Fun fact: I've lived in 6 different states!
+- 😄  Pronouns: She/Her/Hers
+- 📫  How to reach me: amayanicolejimenez@gmail.com
+- 🔭  I’m currently working on my personal website 
+- 🎧  Hobbies: Music, Attending concerts, Spending Time with Friends
+- ⚡   Fun fact: I've lived in 6 different states!
 
 ### Experience
 - Teaching Assistant for University of Florida's Programming 1 Course
