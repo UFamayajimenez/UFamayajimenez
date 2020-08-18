@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Amaya 🌷
+### Hey there! 👋  I'm Amaya 🌷
 ---
 ### Tech Stack
 -  **Languages :** Java, PHP, C++, Javascript, HTML, CSS
